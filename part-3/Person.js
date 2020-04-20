@@ -13,6 +13,3 @@ function Person({name, age, hobbies}) {
   </div>
   )
 }
-
-
-akassian
